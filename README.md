@@ -59,8 +59,8 @@ The dataset used is from the [Kaggle Titanic Challenge](https://www.kaggle.com/c
 |--------------------------|--------------------------------------------|
 | `titanic_model.ipynb`    | Main Jupyter notebook with code & plots    |
 | `titanic_submission.csv` | Final prediction for submission            |
-| `train.csv` *(optional)* | Training dataset from Kaggle               |
-| `test.csv` *(optional)*  | Test dataset from Kaggle                   |
+| `train.csv`              | Training dataset from Kaggle               |
+| `test.csv`               | Test dataset from Kaggle                   |
 
 ---
 
@@ -75,5 +75,5 @@ Arch Technologies
 ## 📧 Contact
 
 For technical issues or feedback:  
-📩 ayesha.nadeem@example.com (replace with your actual email)
+📩 ayeshanadeem2408@gmail.com
 
